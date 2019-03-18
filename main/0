@@ -1,0 +1,13 @@
+main.o: src/main.cpp /mnt/hgfs/sharefile/WebServer/common/inc/Global.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/Logger.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/Config.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/Logger.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/Process.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/Channel.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/EventLoop.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/noncopyable.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/Global.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/TimerQueue.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/TimerNode.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/HttpServer.h \
+ /mnt/hgfs/sharefile/WebServer/common/inc/HttpDataParser.h

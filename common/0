@@ -1,0 +1,4 @@
+HttpServer.o: src/HttpServer.cpp inc/Channel.h inc/Socket.h \
+ inc/noncopyable.h inc/Global.h inc/Logger.h inc/Config.h inc/EventLoop.h \
+ inc/Global.h inc/HttpServer.h inc/HttpDataParser.h inc/HttpConnection.h \
+ inc/EventLoopThreadPool.h
